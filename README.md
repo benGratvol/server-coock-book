@@ -2,4 +2,5 @@
 **Linux set-up**.
 
 
-- user
+# Creat Low Level user/server  
+- sudo useradd [Username] 
