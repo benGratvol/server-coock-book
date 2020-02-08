@@ -4,10 +4,10 @@
 
 # Creat Low Level user/server  
 
-- sudo useradd <Username> 
-- sudo usermod -aG sudo <UserName>
+- sudo useradd [ Username ] 
+- sudo usermod -aG sudo [ UserName ]
 
-** su to <UserName>**
+  su to [ UserName ] 
 
 # Creat Folder Structure
 
@@ -16,7 +16,7 @@
 - mkdir Pro
 - mkdir Test
 
-# install Nginix
+# Install Nginix
 
 - sudo apt-get install nginix
 
