@@ -15,8 +15,11 @@
 - mkdir Downloads
 - mkdir Pro
 - mkdir Test
+- mkdir Beet
+
 
 # Install Nginix
 
 - sudo apt-get install nginix
+- create following folder /etc/nginx/conf.d
 
